@@ -1,5 +1,11 @@
 # 🎭 Playwright Interview Task
 
+<p align="center">
+  <img src="https://d7umqicpi7263.cloudfront.net/promotionalMedia/b7f44435bc68ad4e43aadfc18caebd03" alt="Playwright Task Screenshot" width="600"/>
+</p>
+
+
+
 This repository contains the Playwright automation task created as part of an interview assignment. The project uses Playwright for end-to-end testing of a web application.
 
 ## 📂 Project Structure
